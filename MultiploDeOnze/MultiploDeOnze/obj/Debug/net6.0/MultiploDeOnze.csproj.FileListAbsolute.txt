@@ -1,0 +1,15 @@
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\bin\Debug\net6.0\MultiploDeOnze.exe
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\bin\Debug\net6.0\MultiploDeOnze.deps.json
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\bin\Debug\net6.0\MultiploDeOnze.runtimeconfig.json
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\bin\Debug\net6.0\MultiploDeOnze.dll
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\bin\Debug\net6.0\ref\MultiploDeOnze.dll
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\bin\Debug\net6.0\MultiploDeOnze.pdb
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.csproj.AssemblyReference.cache
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.AssemblyInfoInputs.cache
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.AssemblyInfo.cs
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.csproj.CoreCompileInputs.cache
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.dll
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\ref\MultiploDeOnze.dll
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.pdb
+C:\dev\Exercises\MultiploDeOnze\MultiploDeOnze\obj\Debug\net6.0\MultiploDeOnze.genruntimeconfig.cache
