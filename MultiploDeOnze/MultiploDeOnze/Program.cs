@@ -2,7 +2,9 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
+using MultiploDeOnze.Data;
 using Serilog;
+using Microsoft.AspNetCore.Builder;
 
 namespace MultiploDeOnze
 {
@@ -25,12 +27,17 @@ namespace MultiploDeOnze
 				.ConfigureServices((context, services) =>
 				{
 					services.AddTransient<ICalcularMultiploOnzeService, CalcularMultiploOnzeService>();
+					services.AddDbContext<ApiContext>(opt => opt.UseInMemoryDatabase("NumerosDB"));
+				
 				})
 				.UseSerilog()
 				.Build();
 
+
 			var svc = ActivatorUtilities.CreateInstance<CalcularMultiploOnzeService>(host.Services);
 			svc.Run();
+
+		
 		}
 		/// <summary>
 		/// Configurar o Builder
